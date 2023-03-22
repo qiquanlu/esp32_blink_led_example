@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "led.h": "c",
+    "stdio.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32"
+}
